@@ -1,6 +1,6 @@
-from Payman import calculate as cal
+from Payman import calculate
 def test(a,b):
-    c=cal(a,b)
+    c=calculate(a,b)
 
 test_c=a+b
 assert c==test_c
