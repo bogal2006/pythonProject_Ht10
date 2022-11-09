@@ -1,4 +1,4 @@
-from main.py import calculate as cal
+from Main import Calculate as cal
 def test(a,b):
     c=cal(a,b)
 
