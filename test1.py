@@ -1,4 +1,4 @@
-from Main import Calculate as cal
+from Payman import calculate
 def test(a,b):
     c=cal(a,b)
 
