@@ -7,4 +7,4 @@ assert c==test_c
 
 test(10,45)
 test(-5,89)
-test_c(89,90)
+test(89,90)
